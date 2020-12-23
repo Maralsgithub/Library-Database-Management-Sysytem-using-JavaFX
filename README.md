@@ -2,7 +2,7 @@
 We are second year students of Ala-too International University
 __Maral Kenzhebek kyzy and Nursultan Ogonbashov__
 created a  Library Management System done by using __JavaFX, Java Database Connectivity , Intellij IDEA and Scene builder.__
-__YouTube Link: (https://youtu.be/vWVwEGzrZts)__
+                   (https://youtu.be/vWVwEGzrZts)__
 It looks like:
 
 ![descr](https://imgur.com/7D3SuQA.jpg)
